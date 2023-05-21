@@ -28,9 +28,7 @@ $array = array_map('str_getcsv', $csv);
       <div id="center" class="jumbotron p-3 p-md-5 text-white rounded bg-dark" style="background-color: white !important; border: 4px double black;">
           <div class="col-md-12 px-0">
             <h1 class="display-4 font-italic" align="center" style="color: black;">Почему выбирают нас?</h1>
-            <p class="lead my-3" align="center" style="color: black;">Во времена Кёнигсберга в этом районе размещались знаменитые шпайхеры Ластадий, фотографиями которых вдохновлялись архитекторы, создавая фасад здания.
-
-Спокойный минималистичный интерьер в теплой песчаной гамме дает отсылку к дюнам на побережье Балтийского моря. Натуральный дизайн и мягкие приглушенные тона интерьеров Апарт-отеля «Lastadie» создают неповторимую атмосферу сочетания стиля и комфорта.</p>
+            <p class="lead my-3" align="center" style="color: black;"</p>
             <p class="lead mb-0" align="center" style="color: black;"><a href="https://www.python.org" class="text-black font-weight-bold">Ссылка на Python</a></p>
           </div>
         </div>
